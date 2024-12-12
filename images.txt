@@ -1,1 +1,1 @@
-consul:1.17
+consul:1.15
