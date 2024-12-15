@@ -1,1 +1,1 @@
-zipkin
+zipkin:3.4
